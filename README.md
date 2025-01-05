@@ -1,2 +1,2 @@
-# Roc-o
-Mi repositorio personal
+# About me
+Profesional en transición a la Ciencia de Datos con más de 17 años de experiencia en el sector de la industria farmacéutica, destacando en gestión de cuentas clave y optimización de CRM para análisis de clientes y ventas. Habilidades sólidas en comunicación efectiva, pensamiento crítico y trabajo en equipo, con éxito en proyectos que combinan datos y estrategia comercial. Entusiasta del aprendizaje continuo y la innovación tecnológica, enfocada en aportar valor y experiencia a nuevos desafíos.
